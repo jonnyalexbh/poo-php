@@ -21,16 +21,6 @@ spl_autoload_register(function ($className) {
   }
 });
 
-/*
-require 'src/Unit.php';
-require 'src/Soldier.php';
-require 'src/Archer.php';
-require 'src/Armor.php';
-require 'src/BronzeArmor.php';
-require 'src/SilverArmor.php';
-require 'src/CursedArmor.php';
-*/
-
 $armor = new BronzeArmor();
 
 $jdlopez = new Soldier('jdlopez');
