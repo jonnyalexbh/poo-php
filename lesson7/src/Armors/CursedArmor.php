@@ -1,8 +1,8 @@
 <?php
 
-namespace Jonnyalexbh;
+namespace Jonnyalexbh\Armors;
 
-use Warcraft\Armor;
+use Jonnyalexbh\Armor;
 
 /**
 * CursedArmor implements Armor
