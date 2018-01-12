@@ -1,0 +1,19 @@
+{
+  "name": "jonnyalexbh/poo-php",
+  "description": "Proyecto PHP Poo",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "jonnyalexbh",
+      "email": "jonnyalex.bh@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload":{
+    "files": ["src/helpers.php"],
+    "psr-4":{
+      "Jonnyalexbh\\": "src/"
+    }
+  }
+}
