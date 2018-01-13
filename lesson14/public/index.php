@@ -3,7 +3,7 @@
 namespace Jonnyalexbh;
 
 /**
-* Qué son los facades y cómo implementarlos en tu proyecto
+* Cómo declarar y usar constantes de clases
 */
 
 require '../vendor/autoload.php';
