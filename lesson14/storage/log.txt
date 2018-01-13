@@ -1,0 +1,5 @@
+(2018-01-13 19:48:27) jabh dispara una flecha de fuego a jdlopez
+(2018-01-13 19:48:27) jdlopez ahora tiene 10 puntos de vida
+(2018-01-13 19:48:27) jabh dispara una flecha de fuego a jdlopez
+(2018-01-13 19:48:27) jdlopez ahora tiene -20 puntos de vida
+(2018-01-13 19:48:27) jdlopez muere
